@@ -23,7 +23,7 @@ Here are some resources to help you get started:
 
 - [Palestinian History and Culture](https://www.palestine-studies.org/)
 - [Current News and Events](https://www.aljazeera.com/search/palestine)
-- [Human Rights Organizations](https://www.btselem.org/)
+- [Human Rights Organizations](https://www.btselem.org/voices_from_gaza)
 
 ## Acknowledgements
 
