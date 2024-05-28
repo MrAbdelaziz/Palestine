@@ -22,7 +22,7 @@ We believe in the right of the Palestinian people to live in peace and dignity, 
 Here are some resources to help you get started:
 
 - [Palestinian History and Culture](https://www.palestine-studies.org/)
-- [Current News and Events](https://www.aljazeera.com/tag/palestine/)
+- [Current News and Events](https://www.aljazeera.com/search/palestine)
 - [Human Rights Organizations](https://www.btselem.org/)
 
 ## Contact
