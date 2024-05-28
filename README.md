@@ -25,10 +25,6 @@ Here are some resources to help you get started:
 - [Current News and Events](https://www.aljazeera.com/search/palestine)
 - [Human Rights Organizations](https://www.btselem.org/)
 
-## Contact
-
-For more information or to get involved, please contact us at: [supportpalestine@example.com](mailto:supportpalestine@example.com)
-
 ## Acknowledgements
 
 We would like to thank everyone who has contributed to this repository and the global movement for Palestinian freedom. Your support and dedication are invaluable.
